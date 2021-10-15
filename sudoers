@@ -20,7 +20,6 @@ check ALL=(ALL) NOPASSWD: /usr/lib/nagios/plugins/check_apt
 
 # User privilege specification
 root	ALL=(ALL:ALL) ALL
-check   ALL=(ALL:ALL) ALL
 
 # Members of the admin group may gain root privileges
 %admin ALL=(ALL) ALL
