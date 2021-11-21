@@ -1,0 +1,42 @@
+#!/bin/bash
+
+# SUDO?
+if [ ! $(sudo echo 0) ]; then exit; fi
+
+# Variabele?
+if [ $# -ne 1 ]; then
+	echo "There should be exactly 1 parameter in "\""sudo dns_add_zone [parameter]"\"
+	exit 1
+fi
+
+# Maak een nieuwe zone volgens de gegeven parameter
+echo "zone "\""$1.ben-verbiest.sb.uclllabs.be"\"" {
+	type master;
+	file "\""/etc/bind/zones/db.$1.ben-verbiest.sb.uclllabs.be"\"";
+};" >> /etc/bind/named.conf.mrt-zones
+
+# Als de file nog niet bestaat in /zone/ dan maak je deze aan
+touch /etc/bind/db.$1.ben-verbiest.sb.uclllabs.be
+
+# SOA record aanmaken voor de zonefile en vervolgens in de juiste zone plaatsen
+echo "\$TTL 300
+@ IN SOA $1.ben-verbiest.sb.uclllabs.be. host.ben-verbiest.sb.uclllabs.be. (
+	   5000	;	Serial
+	 604800	;	Refresh
+	  86400	;	Retry
+	2419200	;	Expire
+	 604800	;	Negative Cache TTL
+
+; NAME SERVERS
+@	IN	NS	ns.ben-verbiest.sb.uclllabs.be.
+" > /etc/bind/db.$1.ben-verbiest.sb.uclllabs.be
+
+# Zorgen dat verandering door kan gaan, door het serienummer te verhogen
+old=$(grep "Serial" /etc/bind/db.ben-verbiest.sb.uclllabs.be | tr -dc '0-9')
+new=$((old + 1))
+sed -i "s/.*Serial.*/\t\t $new ;Serial/g" /etc/bind/db.ben-verbiest.sb.uclllabs.be
+
+# Zorgen dat alles geupdate wordt
+rndc reload
+systemctl restart bind9
+
