@@ -1,0 +1,115 @@
+#! /bin/sh
+
+# opnieuw controlleren of er SUDO word gebruikt
+if [ ! $(sudo echo 0) ]; then exit; fi
+
+# Kijken of er minstens 1 argument gegeven is
+if [ $# -eq 0 ]; then
+	echo "There are no variables... there should be -5- variables, so it didn't work... No racord added"
+	exit 1
+fi
+
+# Kijken of het argument -t wortd gebruikt
+if [ $1 = "-t" ]; then
+	case $2 in
+		"A") echo "A record given"
+			if [ $# -eq 5 ]; then
+				echo "All 5 arguments are HERE"
+				FILE = /etc/bind/db.$5
+				echo "$FILE"
+if [ -f $FILE ]; then
+					echo "Zone file exists"
+					echo "$3	IN	A	$4" >> /etc/bind/db.$5
+
+					old=$(grep "Serial" /etc/bind/db.$5 | tr -dc '0-9')
+					new=$((old + 1))
+					sed -i "s/.*Serial.*/\t\t $new ;Serial/g" /etc/bind/db.$5
+					rndc reload
+					systemctl restart bind9.service
+					exit 1
+				else	echo "$5 is not an existing zone..."
+					exit 1
+				fi
+				exit 1
+			else 	echo "You don't have the right amount of arguments given for adding a record"
+				echo "It should be: sudo dns_add_record -t A 'name of other subzone' x.x.x.x 'name of existing subzone'"
+				exit 1
+			fi
+		;;
+		"CNAME") echo "CNAME given"
+			if [ $# -eq 4 ]; then
+				echo "you have 4 arguments :D"
+				FILE = /etc/bind/db.$4
+				if [ -f "$FILE" ]; then
+                                        echo "zone file exists"
+
+					echo "$3		CNAME	@" >> /etc/bind/db.$4
+
+                                        old=$(grep "Serial" /etc/bind/mrt-zone-files/db.$4 | tr -dc '0-9')
+					new=$((old + 1))
+					sed -i "s/.*Serial.*/\t\t $new ;Serial/g" /etc/bind/$4
+					rndc reload
+					systemctl restart bind9.servce
+
+                                        exit 1
+                                else    echo "\$4 is not an existing zone"
+                                        exit 1
+                                fi
+				exit 1
+			else 	echo "you dont have the right amount of arguments given for adding an CNAME record"
+				echo "should be like this: dns_add_record -t CNAME 'name of other subzone' 'name of existing subzone"
+				exit 1
+			fi
+		;;
+		"MX") echo "MX record given"
+			if [ $# -eq 5 ]; then
+				echo "you have 5 arguments, good"
+				FILE=/etc/bind/db.$5
+				if [ -f "$FILE" ]; then
+                                        echo "zone file exists"
+
+					echo "@		IN      MX      10 $3.$5." >> /etc/bind/db.$5
+					echo "$3	IN	A	$4" >> /etc/bind//db.$5
+
+                                	old=$(grep "Serial" /etc/bind/db.$5 | tr -dc '0-9')
+					new=$((old + 1))
+					sed -i "s/.*Serial.*/\t\t $new ;Serial/g" /etc/bind/db.$5
+					rndc reload
+                                        systemctl restart bind9.service
+
+                                        exit 1
+                                else    echo "$5 is not an existing zone"
+                                        exit 1
+                                fi
+				exit 1
+			else	echo "you dont have the right amount of arguments to make an MX record"
+				echo "should be like this: dns_add_record -t MX 'name of subzone' 'x.x.x.x adress om subzone te resloven' 'name of already existing subzone file'"
+				exit 1
+			fi
+		;;
+		*) echo "You havent given a right record type as second argument";;
+	esac
+else 	echo "first no '-t' was given, i prosume you add an A record then"
+	if [ $# -eq  3 ]; then
+		echo "you have 3 arguments, good"
+		FILE=/etc/bind/db.$3
+                                if [ -f $FILE ]; then
+                                        echo "zone file exists"
+
+                                        echo "$1	IN      A       $2" >> /etc/bind/db.$3
+
+                                        old=$(grep "Serial" /etc/bind/db.$3 | tr -dc '0-9')
+					new=$((old + 1))
+					sed -i "s/.*Serial.*/\t\t $new ;Serial/g" /etc/bind/db.$3
+					rndc reload
+					systemctl restart bind9.service
+                                        exit 1
+                                else    echo "$3 is not an existing zone"
+                                        exit 1
+                                fi
+	exit 1
+	else 	echo "you dont have the right amount of arguments for making an A record."
+		echo "you need 'name of other subzone' 'x.x.x.x address om subzone te resolven' 'name of already existing subzone'"
+	exit 1
+	fi
+fi
