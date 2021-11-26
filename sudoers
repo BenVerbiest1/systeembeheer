@@ -17,6 +17,7 @@ check ALL=(ALL) NOPASSWD: /usr/sbin/arp
 check ALL=(ALL) NOPASSWD: /usr/lib/nagios/plugins/check_apt
 check ALL=(ALL) NOPASSWD: /usr/local/bin/dns_add_zone
 check ALL=(ALL) NOPASSWD: /usr/local/bin/dns_add_record
+check ALL=(ALL)NOPASSWD:/usr/local/bin/http_add_vhost
 
 # Cmnd alias specification
 

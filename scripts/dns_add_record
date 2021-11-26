@@ -14,7 +14,7 @@ if [ $1 = "-t" ]; then
         case $2 in
                 "A")
                         if [ $# -eq 5 ]; then
-                                FILE = /etc/bind/zones/db.$5
+                                FILE=/etc/bind/zones/db.$5
                                 if [ -f $FILE ]; then
                                         echo "Zone file exists"
                                         echo "$3        IN      A       $4" >> /etc/bind/zones/db.$5
@@ -35,7 +35,7 @@ if [ $1 = "-t" ]; then
                 ;;
                 "CNAME")
                         if [ $# -eq 4 ]; then
-                                FILE = /etc/bind/zones/db.$4
+                                FILE=/etc/bind/zones/db.$4
                                 if [ -f "$FILE" ]; then
 
                                         echo "$3                CNAME   @" >> /etc/bind/zones/db.$4

@@ -570,3 +570,11 @@ zone subzonechai1i.ben-verbiest.sb.uclllabs.be {
 	type master;
 	file /etc/bind/zones/db.subzonechai1i.ben-verbiest.sb.uclllabs.be;
 };
+zone subzoneung5ko.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneung5ko.ben-verbiest.sb.uclllabs.be;
+};
+zone foobar.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.foobar.ben-verbiest.sb.uclllabs.be;
+};
