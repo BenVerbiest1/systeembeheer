@@ -1882,3 +1882,7 @@ zone subzonesha4th.ben-verbiest.sb.uclllabs.be {
 	type master;
 	file /etc/bind/zones/db.subzonesha4th.ben-verbiest.sb.uclllabs.be;
 };
+zone subzonewi8ahg.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonewi8ahg.ben-verbiest.sb.uclllabs.be;
+};

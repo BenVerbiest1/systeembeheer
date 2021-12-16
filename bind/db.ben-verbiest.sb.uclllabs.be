@@ -3,7 +3,7 @@
 ;
 $TTL    604800
 @       IN      SOA      ns.ben-verbiest.sb.uclllabs.be.  root.ben-verbiest.sb.uclllabs.be. (
-		 509 ;Serial
+		 510 ;Serial
                          604800         ; Refresh
                           86400         ; Retry
                         2419200         ; Expire
