@@ -578,3 +578,1307 @@ zone foobar.ben-verbiest.sb.uclllabs.be {
 	type master;
 	file /etc/bind/zones/db.foobar.ben-verbiest.sb.uclllabs.be;
 };
+zone subzonecau7ah.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonecau7ah.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneao0ina.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneao0ina.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonega0jai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonega0jai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneatie6f.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneatie6f.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonethus5h.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonethus5h.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaed0xu.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaed0xu.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneii2eip.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneii2eip.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonewae0aa.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonewae0aa.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonejim6iu.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonejim6iu.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonekoh9ga.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonekoh9ga.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneieja3o.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneieja3o.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneanee3o.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneanee3o.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonequi3sh.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonequi3sh.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiek5ai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiek5ai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaeyei3.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaeyei3.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonesefal4.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonesefal4.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneoujai9.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneoujai9.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneboo8oz.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneboo8oz.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneceu1mi.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneceu1mi.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneque3ai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneque3ai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaewe0o.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaewe0o.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneshae5i.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneshae5i.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiz0chu.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiz0chu.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneneiqu5.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneneiqu5.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaey3ai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaey3ai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneok0bai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneok0bai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneohng5o.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneohng5o.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonewa3ohc.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonewa3ohc.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeec8ph.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeec8ph.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonequah0h.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonequah0h.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeeb9du.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeeb9du.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonexee0ka.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonexee0ka.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneuagh2c.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneuagh2c.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonedocua1.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonedocua1.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneohga1c.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneohga1c.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonepo1ri0.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonepo1ri0.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneque8ae.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneque8ae.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaeya7p.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaeya7p.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiej8ai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiej8ai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonesiwei6.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonesiwei6.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonedie4ae.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonedie4ae.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneish0be.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneish0be.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneou4eis.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneou4eis.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonehee0uz.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonehee0uz.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiw7pho.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiw7pho.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneneig1o.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneneig1o.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeim7ve.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeim7ve.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonemie8ia.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonemie8ia.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneakoh4k.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneakoh4k.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneohru2u.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneohru2u.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneloox4y.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneloox4y.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonekaec2c.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonekaec2c.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonefae8do.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonefae8do.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonesait9t.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonesait9t.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonefoh3ie.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonefoh3ie.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiex3oh.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiex3oh.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneung3su.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneung3su.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonelia3ne.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonelia3ne.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonebe3aij.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonebe3aij.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneni6quo.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneni6quo.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonepucoh7.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonepucoh7.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonedakoh1.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonedakoh1.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonequagh4.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonequagh4.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonetah2oo.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonetah2oo.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonekai8ye.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonekai8ye.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneooph1r.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneooph1r.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneseequ9.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneseequ9.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonelae8gi.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonelae8gi.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaezaa0.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaezaa0.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaeg4ae.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaeg4ae.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneairo4u.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneairo4u.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneuibi2n.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneuibi2n.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiep4da.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiep4da.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonewahso2.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonewahso2.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonechoh8i.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonechoh8i.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneoong4e.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneoong4e.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeehae9.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeehae9.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneseim6b.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneseim6b.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeephi8.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeephi8.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonequie2c.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonequie2c.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonepae9jo.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonepae9jo.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneyaix9e.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneyaix9e.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeed2ah.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeed2ah.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonefa8hoh.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonefa8hoh.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneoi0ep0.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneoi0ep0.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonephie4u.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonephie4u.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeexe5e.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeexe5e.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonevah4ah.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonevah4ah.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneshaim8.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneshaim8.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneshu2au.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneshu2au.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneey2mai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneey2mai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneal2kei.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneal2kei.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonemae1am.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonemae1am.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonedoov1o.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonedoov1o.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneche8le.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneche8le.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneoezu5r.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneoezu5r.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonequei0p.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonequei0p.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonetou2oh.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonetou2oh.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonewel4fo.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonewel4fo.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonequies8.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonequies8.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiexa8e.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiexa8e.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonewohx1z.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonewohx1z.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonevai6uw.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonevai6uw.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonewi3yae.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonewi3yae.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonequa4ar.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonequa4ar.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneuipi7z.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneuipi7z.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneniex0z.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneniex0z.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaesha3.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaesha3.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaesi5a.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaesi5a.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneao0eeg.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneao0eeg.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonekeeh4w.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonekeeh4w.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneohm7oh.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneohm7oh.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonetopei3.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonetopei3.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneohw4ai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneohw4ai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneij2eo9.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneij2eo9.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeesho3.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeesho3.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonepah5ie.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonepah5ie.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneoomie3.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneoomie3.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonebu2uog.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonebu2uog.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonewee8ee.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonewee8ee.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeth5oo.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeth5oo.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonejong1j.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonejong1j.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonexo5shi.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonexo5shi.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeit0aa.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeit0aa.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneath8ca.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneath8ca.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonebeph0a.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonebeph0a.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaey4ve.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaey4ve.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneohgu4u.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneohgu4u.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneleeh9r.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneleeh9r.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaiho2p.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaiho2p.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonenu5uma.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonenu5uma.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeir3sh.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeir3sh.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneyool3d.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneyool3d.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneohfie2.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneohfie2.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonepiz2wa.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonepiz2wa.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneci8hei.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneci8hei.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonewaequ9.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonewaequ9.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeen4ie.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeen4ie.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneuvaey4.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneuvaey4.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonejai5id.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonejai5id.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonekai8um.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonekai8um.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonethe4ai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonethe4ai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeic9ji.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeic9ji.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonejoh0sh.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonejoh0sh.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonexien2i.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonexien2i.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonecae1ce.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonecae1ce.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneooree7.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneooree7.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneema6we.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneema6we.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonesu1she.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonesu1she.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneonah8a.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneonah8a.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaisha1.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaisha1.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeed8ah.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeed8ah.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneviuh6e.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneviuh6e.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonejaexo7.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonejaexo7.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonenahv4a.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonenahv4a.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneood1pu.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneood1pu.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonedahc4u.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonedahc4u.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneich1ru.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneich1ru.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonemeey0o.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonemeey0o.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeij3ir.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeij3ir.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonenu1ai4.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonenu1ai4.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonephe7ee.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonephe7ee.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneoob0ta.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneoob0ta.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaos8ai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaos8ai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiewi7t.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiewi7t.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeeb3wu.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeeb3wu.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneooche2.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneooche2.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneochie3.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneochie3.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeuvu3o.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeuvu3o.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneawux6h.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneawux6h.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonenah7ji.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonenah7ji.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonetoov5a.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonetoov5a.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonequuox9.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonequuox9.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonejooph8.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonejooph8.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeina0w.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeina0w.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonezahf4e.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonezahf4e.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonechae1c.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonechae1c.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneraeng7.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneraeng7.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonegooch7.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonegooch7.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonebai2ei.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonebai2ei.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneboqu5u.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneboqu5u.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneieb7ze.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneieb7ze.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneuk6eiz.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneuk6eiz.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiis1ok.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiis1ok.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneve6zah.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneve6zah.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonepizue0.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonepizue0.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaenie2.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaenie2.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneahk3ae.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneahk3ae.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneia2pah.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneia2pah.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonera1ahd.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonera1ahd.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeixaa8.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeixaa8.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneoo8aa2.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneoo8aa2.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonequee2j.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonequee2j.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonecoda0o.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonecoda0o.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonegohsh3.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonegohsh3.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiet5zu.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiet5zu.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaa9aiw.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaa9aiw.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneewi2ie.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneewi2ie.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneohv9ai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneohv9ai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneood6oh.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneood6oh.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaeh8xa.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaeh8xa.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneree7mu.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneree7mu.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonefetoo7.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonefetoo7.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneii2roh.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneii2roh.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonecai0ah.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonecai0ah.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonesheik6.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonesheik6.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeohee5.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeohee5.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonehoi3ba.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonehoi3ba.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeeph8i.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeeph8i.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonefai5bo.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonefai5bo.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneshe3oh.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneshe3oh.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonena9jae.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonena9jae.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonejagu4a.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonejagu4a.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonephoo5u.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonephoo5u.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonefec2ah.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonefec2ah.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonemise1s.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonemise1s.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneoimah8.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneoimah8.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonepai6ae.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonepai6ae.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneag1io7.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneag1io7.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneahy3ee.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneahy3ee.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonegoo9sh.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonegoo9sh.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneishu0a.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneishu0a.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiedie1.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiedie1.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaima0w.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaima0w.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneho1uth.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneho1uth.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneui7kan.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneui7kan.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneoegh3h.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneoegh3h.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonevi8tho.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonevi8tho.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneanee0a.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneanee0a.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneisoeb7.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneisoeb7.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneow6aij.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneow6aij.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonelah7oh.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonelah7oh.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeeha8v.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeeha8v.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonetigh0h.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonetigh0h.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneyooyo4.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneyooyo4.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonelei5fa.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonelei5fa.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneta2aix.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneta2aix.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeith6k.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeith6k.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneao6shu.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneao6shu.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneooge0g.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneooge0g.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonequo6ah.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonequo6ah.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneoh0ein.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneoh0ein.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaelor2.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaelor2.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneheev9h.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneheev9h.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonephoh8b.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonephoh8b.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonefaa3bi.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonefaa3bi.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaixei9.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaixei9.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneieze8o.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneieze8o.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonexaph3u.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonexaph3u.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeth1ei.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeth1ei.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonemai5ae.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonemai5ae.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneahpie1.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneahpie1.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonenuhei0.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonenuhei0.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonerae4le.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonerae4le.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneshah6k.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneshah6k.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaepo8o.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaepo8o.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonelao0iu.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonelao0iu.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaix1og.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaix1og.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonegie9ai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonegie9ai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonepii3ei.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonepii3ei.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonehahh6l.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonehahh6l.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneahmo2u.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneahmo2u.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonetio9ee.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonetio9ee.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonepeec7c.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonepeec7c.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaecoh4.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaecoh4.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneith3ee.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneith3ee.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneohw0fe.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneohw0fe.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneshuu3y.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneshuu3y.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneij6ohr.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneij6ohr.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonezith6o.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonezith6o.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonefo8eat.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonefo8eat.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneoo5tii.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneoo5tii.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneuquah4.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneuquah4.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonezai7ae.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonezai7ae.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonewei0ba.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonewei0ba.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonevofoo6.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonevofoo6.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonewoh1ee.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonewoh1ee.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneeep5uy.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneeep5uy.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneie0vai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneie0vai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonewi6sie.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonewi6sie.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneahvau0.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneahvau0.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiex8ai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiex8ai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiph7aw.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiph7aw.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneurei2k.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneurei2k.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonevahp8i.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonevahp8i.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneowe4oh.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneowe4oh.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiebah1.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiebah1.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonedae4ee.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonedae4ee.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneahto9g.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneahto9g.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneohph4t.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneohph4t.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonetihia8.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonetihia8.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonephoe4a.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonephoe4a.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaid4ch.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaid4ch.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneidaep0.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneidaep0.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneun5aen.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneun5aen.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonetae8wa.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonetae8wa.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneka9wae.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneka9wae.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonefee6du.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonefee6du.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneoovoh5.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneoovoh5.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneet8aid.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneet8aid.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiejis8.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiejis8.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonetheo6g.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonetheo6g.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneem1uhu.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneem1uhu.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneweequ6.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneweequ6.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonegaque0.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonegaque0.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonezien7a.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonezien7a.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonebi4nah.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonebi4nah.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonetoh3ee.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonetoh3ee.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneyume2o.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneyume2o.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneiebok5.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneiebok5.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneloo3ai.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneloo3ai.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonezu4wah.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonezu4wah.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneohsh5f.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneohsh5f.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneau5lee.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneau5lee.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaif4zi.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaif4zi.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneoiki0y.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneoiki0y.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonerephe8.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonerephe8.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonemiek7a.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonemiek7a.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonene2sha.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonene2sha.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonevei9je.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonevei9je.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneze8sae.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneze8sae.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonesu5vae.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonesu5vae.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneseoc0w.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneseoc0w.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneto8iz9.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneto8iz9.ben-verbiest.sb.uclllabs.be;
+};
+zone subzoneaeng7f.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzoneaeng7f.ben-verbiest.sb.uclllabs.be;
+};
+zone subzonesha4th.ben-verbiest.sb.uclllabs.be {
+	type master;
+	file /etc/bind/zones/db.subzonesha4th.ben-verbiest.sb.uclllabs.be;
+};

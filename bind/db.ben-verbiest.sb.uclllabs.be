@@ -3,7 +3,7 @@
 ;
 $TTL    604800
 @       IN      SOA      ns.ben-verbiest.sb.uclllabs.be.  root.ben-verbiest.sb.uclllabs.be. (
-		 180 ;Serial
+		 509 ;Serial
                          604800         ; Refresh
                           86400         ; Retry
                         2419200         ; Expire
@@ -21,7 +21,9 @@ _acme-challenge.supersecure IN      TXT     eQPIObwrHmoTGfxB4HO1W3wk6xwPOptbAXGD
 
 
 @                               IN      A       193.191.177.136
+				IN	AAAA	2001:6a8:2880:a077::88
 ns                              IN      A       193.191.177.136
+				IN	AAAA	2001:6a8:2880:a077::88
 www                             IN      A       193.191.177.136
 www1                            IN      A       193.191.177.136
 www2                            IN      A       193.191.177.136
